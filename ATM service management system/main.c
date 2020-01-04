@@ -907,7 +907,7 @@ void withdraw()//exactly similar to deposit. only difference is amount is subtra
                 if (strcmp(ac.ac_no,acn)==0&&ac.t_bal<amt)// when given amount is higher than bank balance
                 {
                     title();
-                    gotoxy(20,12); printf("Sorry, the current balance is Rs. %.2f only!",ac.t_bal);
+                    gotoxy(20,12); printf("Sorry, the current balance is Taka. %.2f only!",ac.t_bal);
                     gotoxy(25,14); printf("Transaction NOT completed!");
                     c=1;
                     getch();
