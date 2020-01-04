@@ -25,7 +25,8 @@
  # Here is a demo picture
  
  **ADMIN SECTION**
- ![ADMIN](https://i.imgur.com/NLMfOkS.gif)
+ ![admin](https://i.imgur.com/BObmyze.png)
+ ![admin2](https://i.imgur.com/7ROf9fh.png)
 
  **CUSTOMER SECTION**
  ![CUSTOMER](https://i.imgur.com/Dkat2lc.gif)
