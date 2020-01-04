@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535555098 source:c:\users\kmhmu\downloads\compressed\atm service management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
